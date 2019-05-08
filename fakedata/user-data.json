@@ -1,0 +1,114 @@
+﻿{  
+   "result":[  
+      {  
+         "status":"IN TRANSIT",
+         "fullname":"CLARA BONOSO",
+         "imageUrl":"celina.jpeg",
+         "username":"clara23",
+         "phone":"+919234567890",
+         "city":"Hyderabad",
+         "orangeStat":"03",
+         "blueStat":"05"
+      },
+      {  
+         "status":"IN TRANSIT",
+         "fullname":"MICHAEL GEORGE",
+         "imageUrl":"pro3.jpeg",
+         "username":"mg123",
+         "phone":"+919234567890",
+         "city":"Cairo",
+         "orangeStat":"02",
+         "blueStat":"07"
+      },
+      {  
+         "status":"BUSY",
+         "fullname":"TIFFANY TOUGH",
+         "username":"toughertiff",
+         "imageUrl":"pro2.png",
+         "phone":"+919234567890",
+         "city":"Mombassa",
+         "orangeStat":"11",
+         "blueStat":"08"
+      },
+      {  
+         "status":"LOCATION MISSING",
+         "fullname":"CLARA BONOSO",
+         "imageUrl":"celina.jpeg",
+         "username":"clara23",
+         "phone":"+919234567890",
+         "city":"Lisbon",
+         "orangeStat":"09",
+         "blueStat":"12"
+      },
+      {  
+         "status":"LOGGED OUT",
+         "fullname":"CLARA BONOSO",
+         "imageUrl":"celina.jpeg",
+         "username":"clara23",
+         "phone":"+919234567890",
+         "city":"Skopje",
+         "orangeStat":"23",
+         "blueStat":"02"
+      },
+      {  
+         "status":"IN TRANSIT",
+         "fullname":"ANDREW POLISH",
+         "imageUrl":"pro1.png",
+         "username":"drew45",
+         "phone":"+919234567890",
+         "city":"Beijing",
+         "orangeStat":"03",
+         "blueStat":"05"
+      },
+      {  
+         "status":"IN TRANSIT",
+         "fullname":"SAMPLE SINGH",
+         "imageUrl":"joe.png",
+         "username":"ss339",
+         "phone":"+919234567890",
+         "city":"Berlin",
+         "orangeStat":"04",
+         "blueStat":"15"
+      },
+      {  
+         "status":"LOCATION MISSING",
+         "fullname":"JOHN DOE",
+         "imageUrl":"nicolo.jpg",
+         "username":"jdoe4",
+         "phone":"+919234567890",
+         "city":"Moscow",
+         "orangeStat":"43",
+         "blueStat":"28"
+      },
+      {  
+         "status":"BUSY",
+         "fullname":"CLARA BONOSO",
+         "imageUrl":"celina.jpeg",
+         "username":"clara23",
+         "phone":"+919234567890",
+         "city":"Sao Paulo",
+         "orangeStat":"14",
+         "blueStat":"19"
+      },
+      {  
+         "status":"IN TRANSIT",
+         "fullname":"CLARA BONOSO",
+         "imageUrl":"celina.jpeg",
+         "username":"clara23",
+         "phone":"+919234567890",
+         "city":"Talinn",
+         "orangeStat":"19",
+         "blueStat":"12"
+      },
+      {  
+         "status":"BUSY",
+         "fullname":"SAMPLE SINGH",
+         "imageUrl":"joe.png",
+         "username":"ss339",
+         "phone":"+919234567890",
+         "city":"Hyderabad",
+         "orangeStat":"01",
+         "blueStat":"07"
+      }
+   ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sticky",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ws"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "local-web-server": "^0.5.18"
+  }
+}
